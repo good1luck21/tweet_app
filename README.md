@@ -24,4 +24,5 @@ Things you may want to cover:
 * ...
 
 修正しました
-岩井
+岩井  
+取り込んだらその内容が反映されます！ by sato
